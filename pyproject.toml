@@ -26,6 +26,7 @@ packages = [
 [tool.poetry.dependencies]
 python = "*"
 click = "*"
+tabula = "^1.0.5"
 
 [tool.poetry.dev-dependencies]
 bumpversion = "*"
